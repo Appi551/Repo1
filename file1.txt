@@ -1,3 +1,4 @@
 Hello World
 this is a sample file for GIT demonstration
-bye
+bye Everyone
+Have a niec day
