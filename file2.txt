@@ -1,0 +1,4 @@
+Hello Friends
+Welcome to GIT Session
+May your day be pleasent in learning the SCM concepts with GIT
+Bye.
